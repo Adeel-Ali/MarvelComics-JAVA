@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CreatorDataContainer 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4700019778727643337L;
+    private static final long serialVersionUID = 5547530866117773669L;
     private int count;
     private int limit;
     private int offset;

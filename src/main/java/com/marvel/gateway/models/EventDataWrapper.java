@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EventDataWrapper 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4693992640125605624L;
+    private static final long serialVersionUID = 5204086359717711360L;
     private String attributionHTML;
     private String attributionText;
     private int code;

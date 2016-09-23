@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CreatorDataWrapper 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5162512368383237077L;
+    private static final long serialVersionUID = 5465293178774774744L;
     private String attributionHTML;
     private String attributionText;
     private int code;

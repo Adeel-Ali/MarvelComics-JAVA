@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class SeriesSummary 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4976799709912866559L;
+    private static final long serialVersionUID = 5348279154245658218L;
     private String name;
     private String resourceURI;
     /** GETTER

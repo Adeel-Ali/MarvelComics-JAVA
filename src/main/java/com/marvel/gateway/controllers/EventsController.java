@@ -72,14 +72,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4983561429428861094L;
+            private static final long serialVersionUID = 4861425953042228353L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5562771819740142566L;
+            private static final long serialVersionUID = 4727991782997764341L;
             {
                     put( "apikey", Configuration.apikey );
             }});
@@ -88,7 +88,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4947431029161615626L;
+            private static final long serialVersionUID = 5454322843677557441L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -232,14 +232,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4896707154729401789L;
+            private static final long serialVersionUID = 4917936938126337302L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5751765228692242534L;
+            private static final long serialVersionUID = 4647403871504943543L;
             {
                     put( "comics", comics );
                     put( "limit", limit );
@@ -257,7 +257,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5700599114121589314L;
+            private static final long serialVersionUID = 4852949280584206452L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -473,14 +473,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5284273032427721784L;
+            private static final long serialVersionUID = 5155240652341143856L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4771349698895479163L;
+            private static final long serialVersionUID = 4913130176983491157L;
             {
                     put( "characters", characters );
                     put( "collaborators", collaborators );
@@ -516,7 +516,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5093661349800560231L;
+            private static final long serialVersionUID = 5526610329389668159L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -684,14 +684,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5555088137708666808L;
+            private static final long serialVersionUID = 5113669695437652953L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5316257503730105120L;
+            private static final long serialVersionUID = 5039572039276567198L;
             {
                     put( "comics", comics );
                     put( "firstName", firstName );
@@ -715,7 +715,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4615998326484506917L;
+            private static final long serialVersionUID = 5125327637091844632L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -875,14 +875,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5147670980209904953L;
+            private static final long serialVersionUID = 4650256526776577666L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4700008179749520476L;
+            private static final long serialVersionUID = 5141071326839758560L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -904,7 +904,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5696327797852800247L;
+            private static final long serialVersionUID = 4673499021688083746L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -1044,14 +1044,14 @@ public class EventsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4640970353379113719L;
+            private static final long serialVersionUID = 5409838941565801269L;
             {
                     put( "eventId", eventId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4904136231209792663L;
+            private static final long serialVersionUID = 5150727989238328387L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -1068,7 +1068,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5061664339944080955L;
+            private static final long serialVersionUID = 5484558197260977260L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -1216,7 +1216,7 @@ public class EventsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5066053677745002354L;
+            private static final long serialVersionUID = 4868279000372829202L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -1236,7 +1236,7 @@ public class EventsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5432173192041422899L;
+            private static final long serialVersionUID = 5299737756724161348L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );

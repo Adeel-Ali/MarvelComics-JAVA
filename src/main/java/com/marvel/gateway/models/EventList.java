@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EventList 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5341204400333621194L;
+    private static final long serialVersionUID = 5610987421894474542L;
     private int available;
     private String collectionURI;
     private List<EventSummary> items;

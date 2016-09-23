@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Url 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5623595499864203230L;
+    private static final long serialVersionUID = 4758078237485771872L;
     private String type;
     private String url;
     /** GETTER

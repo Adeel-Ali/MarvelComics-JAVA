@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Thumbnail 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4839622594913693306L;
+    private static final long serialVersionUID = 5448957449115686131L;
     private String extension;
     private String path;
     /** GETTER

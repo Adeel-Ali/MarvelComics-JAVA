@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ComicPrice 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4954126361963619172L;
+    private static final long serialVersionUID = 5002453727173561887L;
     private double price;
     private String type;
     /** GETTER

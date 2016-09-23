@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class StoryDataWrapper 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5425880420268282585L;
+    private static final long serialVersionUID = 5710677929091464949L;
     private String attributionHTML;
     private String attributionText;
     private int code;

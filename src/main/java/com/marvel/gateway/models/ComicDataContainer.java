@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ComicDataContainer 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5750457893247873596L;
+    private static final long serialVersionUID = 4667348008218179107L;
     private int count;
     private int limit;
     private int offset;

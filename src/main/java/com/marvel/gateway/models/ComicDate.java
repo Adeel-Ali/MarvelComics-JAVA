@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ComicDate 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4730513619135192769L;
+    private static final long serialVersionUID = 4743619311769742749L;
     private Date date;
     private String type;
     /** GETTER

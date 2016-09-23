@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CharacterDataContainer 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5288581472643644642L;
+    private static final long serialVersionUID = 5143332418659323829L;
     private int count;
     private int limit;
     private int offset;

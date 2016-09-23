@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class EventDataContainer 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5257289774286355326L;
+    private static final long serialVersionUID = 5493892853385748122L;
     private int count;
     private int limit;
     private int offset;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class TextObject 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5121159971308547063L;
+    private static final long serialVersionUID = 4826551280920471620L;
     private String language;
     private String text;
     private String type;

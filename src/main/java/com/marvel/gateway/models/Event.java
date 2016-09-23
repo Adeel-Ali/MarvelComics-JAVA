@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class Event 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5520408353648665521L;
+    private static final long serialVersionUID = 5642162490409561798L;
     private CharacterList characters;
     private ComicList comics;
     private CreatorList creators;

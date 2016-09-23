@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ComicList 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 4642571869684072213L;
+    private static final long serialVersionUID = 5718538119287428155L;
     private int available;
     private String collectionURI;
     private List<ComicSummary> items;

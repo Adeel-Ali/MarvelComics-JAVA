@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class MCharacter 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5299384250199182521L;
+    private static final long serialVersionUID = 5488476997387559177L;
     private ComicList comics;
     private String description;
     private EventList events;

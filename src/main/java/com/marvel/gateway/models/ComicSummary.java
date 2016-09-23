@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class ComicSummary 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5544726137271256647L;
+    private static final long serialVersionUID = 4826442763255085525L;
     private String name;
     private String resourceURI;
     /** GETTER

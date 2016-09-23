@@ -72,14 +72,14 @@ public class CreatorsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5527932524550744726L;
+            private static final long serialVersionUID = 5253101798830647040L;
             {
                     put( "creatorId", creatorId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5499514844253572923L;
+            private static final long serialVersionUID = 5295588222978865486L;
             {
                     put( "apikey", Configuration.apikey );
             }});
@@ -88,7 +88,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5410383840485285095L;
+            private static final long serialVersionUID = 4787188495160576829L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -300,14 +300,14 @@ public class CreatorsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5516059811716897334L;
+            private static final long serialVersionUID = 5001598562670699211L;
             {
                     put( "creatorId", creatorId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5155166520551027840L;
+            private static final long serialVersionUID = 5000109117892546754L;
             {
                     put( "characters", characters );
                     put( "collaborators", collaborators );
@@ -342,7 +342,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5657018461793612649L;
+            private static final long serialVersionUID = 4693003168339332031L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -490,14 +490,14 @@ public class CreatorsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4885053557620261722L;
+            private static final long serialVersionUID = 4828729814528231851L;
             {
                     put( "creatorId", creatorId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4932893783667736913L;
+            private static final long serialVersionUID = 5295415571486682340L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -516,7 +516,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5572255714001194050L;
+            private static final long serialVersionUID = 4655435932672570984L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -676,14 +676,14 @@ public class CreatorsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4788517989326055363L;
+            private static final long serialVersionUID = 4861962475630675810L;
             {
                     put( "creatorId", creatorId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 5441698538095554774L;
+            private static final long serialVersionUID = 5280690032681718026L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -705,7 +705,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5344309032981086873L;
+            private static final long serialVersionUID = 5448236453511842628L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -845,14 +845,14 @@ public class CreatorsController extends BaseController {
 
         //process template parameters
         APIHelper.appendUrlWithTemplateParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4922784680333021333L;
+            private static final long serialVersionUID = 4829786948830106603L;
             {
                     put( "creatorId", creatorId );
             }});
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4878389112627621372L;
+            private static final long serialVersionUID = 4674854906620335442L;
             {
                     put( "characters", characters );
                     put( "comics", comics );
@@ -869,7 +869,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 4844052711749961525L;
+            private static final long serialVersionUID = 5723692317568908155L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );
@@ -1037,7 +1037,7 @@ public class CreatorsController extends BaseController {
 
         //process query parameters
         APIHelper.appendUrlWithQueryParameters(_queryBuilder, new HashMap<String, Object>() {
-            private static final long serialVersionUID = 4852455938948382226L;
+            private static final long serialVersionUID = 5727412192460571740L;
             {
                     put( "comics", comics );
                     put( "events", events );
@@ -1062,7 +1062,7 @@ public class CreatorsController extends BaseController {
 
         //load all headers for the outgoing API request
         Map<String, String> _headers = new HashMap<String, String>() {
-            private static final long serialVersionUID = 5477913392894998833L;
+            private static final long serialVersionUID = 5502993222888628574L;
             {
                     put( "user-agent", "APIMATIC 2.0" );
                     put( "accept", "application/json" );

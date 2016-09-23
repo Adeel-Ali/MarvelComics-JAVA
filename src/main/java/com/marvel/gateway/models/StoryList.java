@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class StoryList 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5246469855073727696L;
+    private static final long serialVersionUID = 4834758879036061624L;
     private int available;
     private String collectionURI;
     private List<StorySummary> items;

@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonSetter;
 
 public class CharacterSummary 
         implements java.io.Serializable {
-    private static final long serialVersionUID = 5031142239317262616L;
+    private static final long serialVersionUID = 5566610760006610781L;
     private String name;
     private String resourceURI;
     private String role;
